@@ -1,2 +1,2 @@
 # Shruti
-This is my first Goryit Reposit
+This is my first Git Repository
